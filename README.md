@@ -16,13 +16,13 @@ This is a solution of QR code component.
 
 ### Screenshot
 
-![design\desktop-design.jpg](./screenshot.jpg)
+![design\desktop-design.jpg](design\desktop-design.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: [https://gbadamosimuibat.github.io/qr-code-component-main/](https://gbadamosimuibat.github.io/qr-code-component-main/)
 
 
 
@@ -40,7 +40,7 @@ This is a solution of QR code component.
 ## Author
 
 
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@GbadamosiMuibat](https://www.twitter.com/GbadamosiMuibat)
 
 
 
