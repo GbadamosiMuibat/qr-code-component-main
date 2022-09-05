@@ -12,10 +12,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
+This is a solution of QR code component.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![design\desktop-design.jpg](./screenshot.jpg)
 
 
 ### Links
